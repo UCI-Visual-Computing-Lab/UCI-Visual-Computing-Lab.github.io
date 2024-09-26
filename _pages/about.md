@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:  
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Xiaohui Xie</p>
+    <p>Professor</p>
+    <p><a url="https://www.cs.uci.edu/">Dept of Computer Science</a></p>
+    <p><a url="https://www.ics.uci.edu/">Bren School of Information and Computer Sciences</a></p>
+    <p><a url="https://www.uci.edu/">University of California, Irvine</a></p>
+    <p>Irvine, CA 92697</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Xiaohui Xie is a full profesor in the Department of Computer Science at [UC Irvine](https://www.uci.edu/), where he has been since 2007. He received his PhD from [MIT](https://www.mit.edu/), and completed his postdoctoral training at the Broad Institute of MIT and Harvard University. He is interested in AI/machine learning, neural networks, deep learning, and genomics. He lives in Irvine, California. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Research Interests
+AI/Machine Learning, Neural Networks, Deep Learning, Geonomics

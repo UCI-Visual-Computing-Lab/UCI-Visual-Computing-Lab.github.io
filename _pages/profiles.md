@@ -11,18 +11,42 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: about_xie.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Xiaohui Xie</p>
+      <p>Professor</p>
+students:
+  - img: assests/img/shanlin.jpg
+    name: Shanlin Sun
+    title: PhD Student
+    url: 
+  - img: assests/img/kun.png
+    name: Kun Han
+    title: PhD Student
+    url: 
+  - img: assests/img/tung.jpeg
+    name: Thanh-Tung Le
+    title: PhD Student
+    url: 
+  - img: assests/img/pooya.jpg
+    name: Pooya Khosravi
+    title: PhD Student
+    url: https://khosravipooya.com
+  - img: assests/img/arghavan.png
+    name: Arghavan Rezvani
+    title: PhD Student
+    url:
+  - img: assests/img/anthony.jpg
+    name: Anthony Wu
+    title: PhD Student
+    url: 
+  - img: assests/img/yifeng.jpg
+    name: Yifeng Xiong
+    title: PhD Student
+    url: 
+  - img: assests/img/2.jpg
+    name: Jackie Xin
+    title: PhD Student
+    url: 
 ---
