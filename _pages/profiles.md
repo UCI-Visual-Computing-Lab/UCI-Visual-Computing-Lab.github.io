@@ -21,15 +21,15 @@ students:
   - img: assets/img/shanlin.jpg
     name: Shanlin Sun
     title: PhD Student
-    url: 
+    url: https://siwensun.github.io/
   - img: assets/img/kun.png
     name: Kun Han
     title: PhD Student
-    url: 
+    url: https://scholar.google.com/citations?user=GdIW8DUAAAAJ&hl=en
   - img: assets/img/tung.jpeg
     name: Thanh-Tung Le
     title: PhD Student
-    url: 
+    url: https://tungthanhlee.github.io/
   - img: assets/img/pooya.jpg
     name: Pooya Khosravi
     title: PhD Student
@@ -37,15 +37,15 @@ students:
   - img: assets/img/arghavan.png
     name: Arghavan Rezvani
     title: PhD Student
-    url:
+    url: https://scholar.google.com/citations?user=i-Qw92sAAAAJ&hl=en
   - img: assets/img/anthony.png
     name: Anthony Wu
     title: PhD Student
-    url: 
+    url: https://atwu.github.io
   - img: assets/img/yifeng.jpg
     name: Yifeng Xiong
     title: PhD Student
-    url: 
+    url: https://yuukino22.github.io/
   - img: assets/img/2.jpg
     name: Jackie Xin
     title: PhD Student
