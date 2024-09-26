@@ -14,7 +14,7 @@ profiles:
     content: about_xie.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Xiaohui Xie</p>
+      <p>Xiaohui Xie</p> <br/ >
       <p>Professor</p>
 
 students:
