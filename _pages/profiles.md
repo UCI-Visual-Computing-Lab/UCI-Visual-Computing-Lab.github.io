@@ -16,36 +16,37 @@ profiles:
     more_info: >
       <p>Xiaohui Xie</p>
       <p>Professor</p>
+
 students:
-  - img: assests/img/shanlin.jpg
+  - img: assets/img/shanlin.jpg
     name: Shanlin Sun
     title: PhD Student
     url: 
-  - img: assests/img/kun.png
+  - img: assets/img/kun.png
     name: Kun Han
     title: PhD Student
     url: 
-  - img: assests/img/tung.jpeg
+  - img: assets/img/tung.jpeg
     name: Thanh-Tung Le
     title: PhD Student
     url: 
-  - img: assests/img/pooya.jpg
+  - img: assets/img/pooya.jpg
     name: Pooya Khosravi
     title: PhD Student
     url: https://khosravipooya.com
-  - img: assests/img/arghavan.png
+  - img: assets/img/arghavan.png
     name: Arghavan Rezvani
     title: PhD Student
     url:
-  - img: assests/img/anthony.jpg
+  - img: assets/img/anthony.png
     name: Anthony Wu
     title: PhD Student
     url: 
-  - img: assests/img/yifeng.jpg
+  - img: assets/img/yifeng.jpg
     name: Yifeng Xiong
     title: PhD Student
     url: 
-  - img: assests/img/2.jpg
+  - img: assets/img/2.jpg
     name: Jackie Xin
     title: PhD Student
     url: 

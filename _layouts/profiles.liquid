@@ -35,29 +35,33 @@ layout: page
   </article>
 </div>
 
-<div class="post">
-  {% if page.students %}
-    {% for student in page.students %}
-      <div class="col">
-        <a href="{{ student.url}}">
-          <div class="card h-100 hoverable">
-            {% if student.img %}
-              {%
-                include figure.liquid
-                loading="eager"
-                path=student.img
-                sizes = "250px"
-                alt="student pic"
-                class="card-img-top"
-              %}
-            {% endif %}
-            <div class="card-body">
-              <h2 class="card-title">{{ student.name }}</h2>
-              <p class="card-text">{{ student.title }}</p>
+<hr/>
+
+<div class="projects">
+  <div class="row row-cols-1 row-cols-md-3">
+    {% if page.students %}
+      {% for student in page.students %}
+        <div class="col">
+          <a href="{{ student.url}}">
+            <div class="card h-100 hoverable m-2">
+              {% if student.img %}
+                {%
+                  include figure.liquid
+                  loading="eager"
+                  path=student.img
+                  sizes = "250px"
+                  alt="student pic"
+                  class="card-img-top"
+                %}
+              {% endif %}
+              <div class="card-body">
+                <h2 class="card-title">{{ student.name }}</h2>
+                <p class="card-text">{{ student.title }}</p>
+              </div>
             </div>
-          </div>
-        </a>
-      </div>
-    {% endfor %}
-  {% endif %}
+          </a>
+        </div>
+      {% endfor %}
+    {% endif %}
+  </div>
 </div>
