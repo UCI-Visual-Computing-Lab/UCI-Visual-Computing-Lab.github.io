@@ -30,6 +30,10 @@ students:
     name: Thanh-Tung Le
     title: PhD Student
     url: https://tungthanhlee.github.io/
+  - img: assets/img/hasan.jpg
+    name: Muhammed Hasan Çelik
+    title: PhD Student
+    url: https://www.linkedin.com/in/muhammedhasancelik
   - img: assets/img/pooya.jpg
     name: Pooya Khosravi
     title: PhD Student
