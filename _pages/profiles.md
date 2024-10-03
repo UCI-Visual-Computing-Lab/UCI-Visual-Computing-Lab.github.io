@@ -50,7 +50,7 @@ students:
     name: Yifeng Xiong
     title: PhD Student
     url: https://yuukino22.github.io/
-  - img: assets/img/2.jpg
+  - img: assets/img/jackie.jpg
     name: Jackie Xin
     title: PhD Student
     url: 
